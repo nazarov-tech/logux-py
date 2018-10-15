@@ -8,7 +8,7 @@ from setuptools import setup, find_packages
 with open('README.md') as readme_file:
     readme = readme_file.read()
 
-with open('HISTORY.rst') as history_file:
+with open('HISTORY.md') as history_file:
     history = history_file.read()
 
 requirements = []
@@ -33,6 +33,7 @@ setup(
     install_requires=requirements,
     license="MIT license",
     long_description=readme + '\n\n' + history,
+    long_description_content_type="text/markdown",
     include_package_data=True,
     keywords='logux',
     name='logux',
@@ -41,6 +42,6 @@ setup(
     test_suite='tests',
     tests_require=test_requirements,
     url='https://github.com/nazarov-tech/logux',
-    version='0.0.1',
+    version='0.0.3',
     zip_safe=False,
 )
