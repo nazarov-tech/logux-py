@@ -60,4 +60,4 @@ $ git push origin name-of-your-bugfix-or-feature
 
 ## Build & upload to PyPi
 
-TODO
+Follow [Twine instructions](https://pypi.org/project/twine/).
