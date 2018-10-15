@@ -1,10 +1,6 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-
 """Tests for `logux` package."""
 
 import pytest
-
 
 from logux import logux
 
@@ -15,11 +11,10 @@ def response():
 
     See more at: http://doc.pytest.org/en/latest/fixture.html
     """
-    # import requests
-    # return requests.get('https://github.com/audreyr/cookiecutter-pypackage')
+    assert dir(logux) == dir(logux)
 
 
 def test_content(response):
     """Sample pytest test function with the pytest fixture as an argument."""
-    # from bs4 import BeautifulSoup
-    # assert 'GitHub' in BeautifulSoup(response.content).title.string
+
+    assert dir(logux) == dir(logux)
