@@ -16,3 +16,12 @@ This affects code, commit messages, issues, comments and everything else.
 - Follow [GitLab Flow](https://docs.gitlab.com/ee/workflow/gitlab_flow.html).
 
 - On the code review keep in mind [thoughtbot rules](https://github.com/thoughtbot/guides/tree/master/code-review).
+
+
+## Setup for development
+
+TODO
+
+## Build & upload to PyPi
+
+TODO
