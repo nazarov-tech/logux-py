@@ -4,6 +4,8 @@ The Python interface to the [Logux](https://github.com/logux/) server.
 
 ## Installation
 
+![python](static/python.png) + ![logux](static/logux.png) = 💛 
+
 logux-py requires a running Logux server.
 See Logux's [quickstart](https://github.com/logux/logux-server#installation). 
 
