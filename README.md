@@ -3,7 +3,7 @@ The Python interface to the [Logux](https://github.com/logux/) server.
 
 ![python](static/python.png) ![logux](static/logux.png)
 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/nazarov-tech/logux-py/graphs/commit-activity)
 
 ## Installation
 
