@@ -3,8 +3,10 @@ The Python interface to the [Logux](https://github.com/logux/) server.
 
 ![python](static/python.png) ![logux](static/logux.png)
 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/nazarov-tech/logux-py/graphs/commit-activity)
-[![Documentation](https://readthedocs.org/projects/logux-py/badge/?version=latest)](https://logux-py.readthedocs.io/en/latest/?badge=latest)
+[![maintained?](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/nazarov-tech/logux-py/graphs/commit-activity)
+[![docs](https://readthedocs.org/projects/logux-py/badge/?version=latest)](https://logux-py.readthedocs.io/en/latest/?badge=latest)
+[![build](https://img.shields.io/travis/nazarov-tech/logux-py.svg)](https://travis-ci.org/nazarov-tech/logux-py)
+
 
 ## Installation
 
