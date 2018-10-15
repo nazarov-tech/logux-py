@@ -14,16 +14,30 @@ Then install package from PyPi:
 pip install logux
 ```
 
-## Getting Started
+## Usage
 
 ```python
 >>> import logux
 
-
 # todo
+    
 ```
 
-## How Can I Help the Project
 
-See [contributing guide](https://github.com/nazarov-tech/logux-py/blob/master/CONTRIBUTING.md),
+## Features
+
+None so far!
+
+## Licence 
+
+The package is available as open source under the terms of the [MIT License](LICENSE).
+
+## Code of Conduct
+
+Everyone interacting in the logux-py project’s codebases, issue trackers, chat rooms
+and mailing lists is expected to follow the [Berlin Code of Conduct](https://berlincodeofconduct.org/).
+
+## Contributing
+
+See [contributing guide](CONTRIBUTING.md),
 then [issues list](https://github.com/nazarov-tech/logux-py/issues).
