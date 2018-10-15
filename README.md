@@ -13,7 +13,7 @@ The Python interface to the [Logux](https://github.com/logux/) server.
 logux-py requires a running Logux server.
 See Logux's [quickstart](https://github.com/logux/logux-server#installation). 
 
-Then install package from PyPi:
+Then install package [from PyPi](https://pypi.org/project/logux/):
 
 ```bash
 pip install logux
