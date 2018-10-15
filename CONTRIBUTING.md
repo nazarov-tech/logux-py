@@ -9,6 +9,8 @@ However, here's some ground rules:
 - Don't use any language other than English.
 This affects code, commit messages, issues, comments and everything else.
 
+- Don't use any Python other than 3.7 or 3.7+.
+
 - Your commit messages should follow [these 7 rules](https://chris.beams.io/posts/git-commit/).
 
 - Follow [GitLab Flow](https://docs.gitlab.com/ee/workflow/gitlab_flow.html).
