@@ -28,6 +28,7 @@ pip install logux
     
 ```
 
+Read more: [documentation](https://logux-py.readthedocs.io/en/latest/).
 
 ## Features
 
