@@ -41,7 +41,7 @@ setup(
     setup_requires=setup_requirements,
     test_suite='tests',
     tests_require=test_requirements,
-    url='https://github.com/nazarov-tech/logux',
-    version='0.0.4',
+    url='https://github.com/nazarov-tech/logux-py',
+    version='0.0.5',
     zip_safe=False,
 )
