@@ -17,6 +17,7 @@ This affects code, commit messages, issues, comments and everything else.
 
 - On the code review keep in mind [thoughtbot rules](https://github.com/thoughtbot/guides/tree/master/code-review).
 
+- Your code should be covered with tests (otherwise build will fall).
 
 ## Setup for development
 
